@@ -1,0 +1,13 @@
+{
+  "video_count": 40,
+  "source_frames_preserved": 154227,
+  "full_video_audio_decode_pass": 40,
+  "asr_complete_source_artifacts": 40,
+  "ocr_complete_source_artifacts": 10,
+  "original_sources_bytes": 753284725,
+  "compressed_video_bytes": 344651328,
+  "package_total_bytes_before_validation": 348855212,
+  "package_total_MB_decimal": 348.86,
+  "pixel_and_audio_encoding": "lossy; original source folder retained",
+  "issues": []
+}

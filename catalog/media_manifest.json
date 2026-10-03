@@ -1,0 +1,1494 @@
+{
+  "created_at": "2026-10-02 21:16:17",
+  "settings": {
+    "video": "AV1, max width 480, CRF42, source frames/fps retained",
+    "audio": "AAC mono 48kbps on reencoded clips; complete audio retained",
+    "optimization": "keep original file when it is smaller than reencode",
+    "quality": "lossy pixels/audio; not a lossless copy of source"
+  },
+  "completed": 40,
+  "total": 40,
+  "errors": [],
+  "items": [
+    {
+      "id": "7642198121565146484",
+      "publication_time": "2026-05-21 12:31",
+      "pinned": false,
+      "title": "关于“违规”这件事#自媒体 #个人ip",
+      "public_url": "https://www.douyin.com/video/7642198121565146484",
+      "file": "videos/7642198121565146484.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 14514326,
+      "package_bytes": 5940308,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3199",
+        "duration": "106.633333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3199",
+        "duration": "106.633333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "106.649002"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "85ab32b54ad19ad984a3804cf6c9bf6542689b455ba170713039af0cc5ee18e0",
+      "elapsed_seconds": 39.94
+    },
+    {
+      "id": "7642284257615875379",
+      "publication_time": "2026-05-21 18:06",
+      "pinned": false,
+      "title": "看完了再决定自己要不要做自媒体 #短视频 #自媒体 #个人IP",
+      "public_url": "https://www.douyin.com/video/7642284257615875379",
+      "file": "videos/7642284257615875379.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 28793428,
+      "package_bytes": 13702904,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6197",
+        "duration": "206.566667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6197",
+        "duration": "206.566667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "206.588005"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "fc9bf5ccda88ff173aa69b5ebe018e85ac1a85b30d45216657f7a1b6d0ef1279",
+      "elapsed_seconds": 87.31
+    },
+    {
+      "id": "7642620715061944488",
+      "publication_time": "2026-05-22 15:51",
+      "pinned": false,
+      "title": "最近做自媒体有点小感悟——被夸和被骂，本质上居然是同一件事。 不管是收到好评还是负面评价，其实都是有人在认真看你的内容呀～#自媒体#个人ip#短视频运营",
+      "public_url": "https://www.douyin.com/video/7642620715061944488",
+      "file": "videos/7642620715061944488.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 14731314,
+      "package_bytes": 6157630,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3404",
+        "duration": "113.466667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3404",
+        "duration": "113.466667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "113.521995"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "92bc4204e8ae6b20a425b0c78b55039d35d40119e23c95b8deb9c528be4266bf",
+      "elapsed_seconds": 42.41
+    },
+    {
+      "id": "7643078182933006720",
+      "publication_time": "2026-05-23 21:26",
+      "pinned": false,
+      "title": "分享一些大大方方做自媒体的小tips#自媒体#个人ip#ip陪跑",
+      "public_url": "https://www.douyin.com/video/7643078182933006720",
+      "file": "videos/7643078182933006720.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 23014822,
+      "package_bytes": 10443601,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4634",
+        "duration": "154.466667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4634",
+        "duration": "154.466667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "154.481995"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "07f12ab5310c640c2e8b8167c1267ff57343b6354aece788d4d77c2c0fe46f79",
+      "elapsed_seconds": 63.51
+    },
+    {
+      "id": "7643752789071449359",
+      "publication_time": "2026-05-25 17:04",
+      "pinned": false,
+      "title": "真正辨别“聪明人”的方法 #个人ip #自媒体运营 #自媒体创业 #短视频运营 #新手博主",
+      "public_url": "https://www.douyin.com/video/7643752789071449359",
+      "file": "videos/7643752789071449359.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 16748609,
+      "package_bytes": 6377011,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3308",
+        "duration": "110.266667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3308",
+        "duration": "110.266667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "110.270998"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "964aa222125e9cbfbe3510e941e8224630bcffbdc877da3652a02f6919f21cdb",
+      "elapsed_seconds": 42.19
+    },
+    {
+      "id": "7646383121931291910",
+      "publication_time": "2026-06-01 19:11",
+      "pinned": false,
+      "title": "审美越高 做自媒体越痛苦 #个人ip #短视频运营 #自媒体干货 #自媒体创业 #新人博主",
+      "public_url": "https://www.douyin.com/video/7646383121931291910",
+      "file": "videos/7646383121931291910.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 14417808,
+      "package_bytes": 5518398,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2782",
+        "duration": "92.733333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2782",
+        "duration": "92.733333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "92.740000"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "201f7196cab4e673f66a71c77cd3817db73fa317a92bac05ce184840e4ac9114",
+      "elapsed_seconds": 34.25
+    },
+    {
+      "id": "7646791644632583460",
+      "publication_time": "2026-06-02 21:37",
+      "pinned": false,
+      "title": "自媒体陪跑1v1线下指导全流程 #IP陪跑 #自媒体创业 #新手博主 #个人IP #短视频运营",
+      "public_url": "https://www.douyin.com/video/7646791644632583460",
+      "file": "videos/7646791644632583460.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 3906582,
+      "package_bytes": 2980554,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1116",
+        "duration": "37.200000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1116",
+        "duration": "37.200000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "37.176009"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "e94d8c069e7f3beed7b96b8992237635d2a0e5c4bbcda7a6535e471a5afc47ff",
+      "elapsed_seconds": 16.44
+    },
+    {
+      "id": "7647381882178374931",
+      "publication_time": "2026-06-04 11:47",
+      "pinned": false,
+      "title": "AI时代能赚钱的博主都很会构建「个人知识库」 今天参加 ima OpenDay。最大的感触是：AI时代，内容越来越容易生产。但真正值钱的，是你沉淀下来的知识资产。以前做自媒体：发一条内容，价值只存在一天。现在如果能把经验、案例、观点持续沉淀到知识库里。一次输出，未来可能被反复搜索、反复调用、反复使用。内容是消耗品。知识资产却有机会持续产生价值。这也是我看到 ima知识号 最有感触的一点。它不只是发内容。而是在帮创作者把碎片化输出，慢慢沉淀成自己的知识资产。未来创作者拼的可能不再是谁更新得快。而是谁拥有更多可复用、可积累、可变现的知识资产。 #ima知识号 #知识资产 #AI工具 #自媒体运营 #知识库",
+      "public_url": "https://www.douyin.com/video/7647381882178374931",
+      "file": "videos/7647381882178374931.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 17876201,
+      "package_bytes": 8311598,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3588",
+        "duration": "119.600000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3588",
+        "duration": "119.600000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "119.629002"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "7e7a01c6b7d5da3ccce5959add33c62f3f2837a3d781a51340c7ef1e925b477a",
+      "elapsed_seconds": 52.97
+    },
+    {
+      "id": "7647845197472189722",
+      "publication_time": "2026-06-05 17:45",
+      "pinned": false,
+      "title": "教培机构/独立老师拍视频，这样做客资加到爆 教培人做自媒体，别再踩这3拍5不拍的坑了！吸引中高端家长，不是拼剪辑、喊口号、制造焦虑而是比谁更懂真实焦虑，谁真把孩子当自己的对待五类视频不要拍：教家长、讲术语、玩套路、只晒结果、蹭流量三件事要坚持做：展示差异化、精准人群定位、呈现真实过程方向对了，来的都是愿意为教育价值买单的同频家长 #教育IP #中高端家长 #教育赛道 #自媒体运营 #个人ip #教培自媒体",
+      "public_url": "https://www.douyin.com/video/7647845197472189722",
+      "file": "videos/7647845197472189722.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 42713866,
+      "package_bytes": 15668729,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "7643",
+        "duration": "254.766667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "7643",
+        "duration": "254.766667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "254.791995"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "a86cd1a42303efabdf20017d3522537e20968f8338f098f72be40ec854bf1d9d",
+      "elapsed_seconds": 93.67
+    },
+    {
+      "id": "7648164755579866431",
+      "publication_time": "2026-06-06 14:25",
+      "pinned": false,
+      "title": "自媒体 | 课程vs私教，区别在哪里？ #IP陪跑 #自媒体创业 #新手博主 #个人IP #短视频运营",
+      "public_url": "https://www.douyin.com/video/7648164755579866431",
+      "file": "videos/7648164755579866431.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 15057740,
+      "package_bytes": 6923776,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2647",
+        "duration": "88.233333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2647",
+        "duration": "88.233333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "88.236009"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "04e07cfaddfcfe4e89a02559c372ad6804ab046978f7cb94d922454d0ef4a2b2",
+      "elapsed_seconds": 42.14
+    },
+    {
+      "id": "7649667628167892259",
+      "publication_time": "2026-06-10 15:37",
+      "pinned": false,
+      "title": "4招拿捏表现力呆板、僵硬、念稿感全走开 听完包你口播有表现力，看看你在哪个阶段？#自媒体创业#表现力提升 #个人ip #新人博主#口播视频",
+      "public_url": "https://www.douyin.com/video/7649667628167892259",
+      "file": "videos/7649667628167892259.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 18364978,
+      "package_bytes": 8801488,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3554",
+        "duration": "118.466667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3554",
+        "duration": "118.466667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "118.445011"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "86942d837952f7737d1276699f4cbb8a13325f021b4b78161e6a07d87fbb308c",
+      "elapsed_seconds": 51.1
+    },
+    {
+      "id": "7650160110718782754",
+      "publication_time": "2026-06-11 23:28",
+      "pinned": false,
+      "title": "关于陪跑，我为什么一开始就劝退不合适的人？ #个人ip #自媒体运营 #短视频运营 #自媒体创业 #小红书博主",
+      "public_url": "https://www.douyin.com/video/7650160110718782754",
+      "file": "videos/7650160110718782754.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 3363448,
+      "package_bytes": 2596901,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1072",
+        "duration": "35.733333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1072",
+        "duration": "35.733333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "35.737007"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "fafbe38ff74e20bfe337b7eb06dd7220bb075c8d8a08c01b13cc7d926a445f74",
+      "elapsed_seconds": 15.48
+    },
+    {
+      "id": "7650443636907216182",
+      "publication_time": "2026-06-12 17:48",
+      "pinned": false,
+      "title": "律师ip的爆款内容怎么拍！保姆级干货 我的律师学员几千粉案源接到手软一条视频获客1000另一个学员才发了几条视频就接到了百万博主的委托律师做ip，太容易了！！！#自媒体创业 #律师IP #新人博主 #自媒体干货 #律师获客",
+      "public_url": "https://www.douyin.com/video/7650443636907216182",
+      "file": "videos/7650443636907216182.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 36180462,
+      "package_bytes": 16268906,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "7629",
+        "duration": "254.300000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "7629",
+        "duration": "254.300000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "254.328005"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "d3d78a76d9fd59804bf9427fa0a0b95fd59a6ab688551514ac426b4d7f8765db",
+      "elapsed_seconds": 103.53
+    },
+    {
+      "id": "7650900395115564303",
+      "publication_time": "2026-06-13 23:21",
+      "pinned": false,
+      "title": "如何在无反馈期还能坚持做事、保持执行密度 让自己保持在牌桌上就已经赢了90%的人#自媒体创业 #个人ip #自媒体运营 #自媒体干货分享 #新手博主",
+      "public_url": "https://www.douyin.com/video/7650900395115564303",
+      "file": "videos/7650900395115564303.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 24752982,
+      "package_bytes": 11020200,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6131",
+        "duration": "204.366667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6131",
+        "duration": "204.366667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "204.381995"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "810d55da1dcf980fd71fbd5251d5e978ab471da3ac78db9afe3c15c06e3558b1",
+      "elapsed_seconds": 77.54
+    },
+    {
+      "id": "7652580545800457515",
+      "publication_time": "2026-06-18 12:00",
+      "pinned": false,
+      "title": "AI影像邪修又升级了美图影像节Vlog 别纠结了！先开拍再说！又是被有趣且高级的审美浸泡住的一天#开拍app #口播视频 #网感剪辑 #美图影响节 #2026美图影像节",
+      "public_url": "https://www.douyin.com/video/7652580545800457515",
+      "file": "videos/7652580545800457515.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 30222531,
+      "package_bytes": 14778938,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4676",
+        "duration": "155.866667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4676",
+        "duration": "155.866667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "155.875011"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "f23056b8f335df2365f583a10d620c2822e39b8a96010f46c91ff4cc6dfd78d5",
+      "elapsed_seconds": 81.19
+    },
+    {
+      "id": "7654151382865415487",
+      "publication_time": "2026-06-22 17:36",
+      "pinned": false,
+      "title": "看完向佐访谈，比没流量更可怕的是“空心人” 做自媒体，未来第一批被淘汰的一定是“空心人”博主#新人博主 #自媒体创业 #个人IP #自媒体干货分享 #向佐",
+      "public_url": "https://www.douyin.com/video/7654151382865415487",
+      "file": "videos/7654151382865415487.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 31936305,
+      "package_bytes": 10694770,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4667",
+        "duration": "155.566667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4667",
+        "duration": "155.566667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "155.598005"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "fc76a0d0a42c54bf838b4d57cf42713168344166021679659cd22fcb83ecafae",
+      "elapsed_seconds": 69.54
+    },
+    {
+      "id": "7657972841173798153",
+      "publication_time": "2026-07-03 00:45",
+      "pinned": false,
+      "title": "讲真，教培行业真的是冰两重天 建议所有没生源的老师尽早转型，越是没生源越要做自媒体#自媒体创业 #个人IP #新人博主 #自媒体运营 #教师IP",
+      "public_url": "https://www.douyin.com/video/7657972841173798153",
+      "file": "videos/7657972841173798153.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 24698464,
+      "package_bytes": 11696147,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5338",
+        "duration": "177.933333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5338",
+        "duration": "177.933333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "177.935011"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "0ed665e78146912a97b3b1d1fb870d8993ee02cc213bd873b39ff013646513b1",
+      "elapsed_seconds": 79.69
+    },
+    {
+      "id": "7660088454587485446",
+      "publication_time": "2026-07-08 17:35",
+      "pinned": false,
+      "title": "4种高级感字体！土味视频说拜拜 瞬间提升视频质感！#自媒体干货 #自媒体创业 #个人IP#新手博主 #短视频运营",
+      "public_url": "https://www.douyin.com/video/7660088454587485446",
+      "file": "videos/7660088454587485446.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 7466341,
+      "package_bytes": 6050671,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1712",
+        "duration": "57.066667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1712",
+        "duration": "57.066667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "57.099002"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "bf4d5fbae257dbef5c41ccc190efa5c2d835892d90ba569abb005baae511b7c4",
+      "elapsed_seconds": 27.7
+    },
+    {
+      "id": "7660785718813297946",
+      "publication_time": "2026-07-10 14:41",
+      "pinned": false,
+      "title": "一旦放弃状态洁癖，自媒体突然就做起来了！ #自媒体创业 #个人ip #新手博主 #短视频运营 #自媒体干货",
+      "public_url": "https://www.douyin.com/video/7660785718813297946",
+      "file": "videos/7660785718813297946.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 25400798,
+      "package_bytes": 11242442,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3142",
+        "duration": "104.733333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3142",
+        "duration": "104.733333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "104.745011"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "d5d9f33edf756fc188f728a0c1b9a48c46bd8fe33affb4e40cb2b2c6a35a9e63",
+      "elapsed_seconds": 61.53
+    },
+    {
+      "id": "7660799379078516014",
+      "publication_time": "2026-07-10 15:34",
+      "pinned": false,
+      "title": "当一群自媒体人线下奔现，场面有多上头 #个人ip #新人博主 #自媒体创业 #自媒体运营",
+      "public_url": "https://www.douyin.com/video/7660799379078516014",
+      "file": "videos/7660799379078516014.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 29193766,
+      "package_bytes": 13790080,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4011",
+        "duration": "133.700000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4011",
+        "duration": "133.700000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "133.747007"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "5cfd0f90af66360fc4ebe0e600e939d7f27122f9e1df1c6c607c6597c99ef858",
+      "elapsed_seconds": 98.64
+    },
+    {
+      "id": "7661892409403493695",
+      "publication_time": "2026-07-13 14:15",
+      "pinned": true,
+      "title": "精神世界越丰富的人，越不适合做博主 #自媒体创业 #个人IP #短视频运营 #新人博主 #自媒体运营",
+      "public_url": "https://www.douyin.com/video/7661892409403493695",
+      "file": "videos/7661892409403493695.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 27579215,
+      "package_bytes": 11909912,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 1440,
+        "height": 2560,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3860",
+        "duration": "128.666667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3860",
+        "duration": "128.666667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "128.710000"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "32719e7b56f665f681169446a5c2a5d6af97fefa6024054b3ecbb36866c5ed10",
+      "elapsed_seconds": 96.59
+    },
+    {
+      "id": "7664937363994414372",
+      "publication_time": "2026-07-21 19:11",
+      "pinned": false,
+      "title": "从0-10000粉，自媒体变现必经的3个节点 #自媒体创业 #个人IP #新人博主 #短视频运营 #自媒体运营",
+      "public_url": "https://www.douyin.com/video/7664937363994414372",
+      "file": "videos/7664937363994414372.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 17344025,
+      "package_bytes": 7992130,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4285",
+        "duration": "142.833333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4285",
+        "duration": "142.833333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "142.849002"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "41aa3185c8dd163e1b68c0e63d0517750f35bd5c055996f921e8f3e21f226227",
+      "elapsed_seconds": 88.6
+    },
+    {
+      "id": "7666364339087035691",
+      "publication_time": "2026-07-25 15:29",
+      "pinned": false,
+      "title": "真正赚钱的账号，一定要拍这3种内容 让用户忍不住为你付费#个人IP #新人博主 #短视频运营 #自媒体运营 #自媒体干货",
+      "public_url": "https://www.douyin.com/video/7666364339087035691",
+      "file": "videos/7666364339087035691.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 35954746,
+      "package_bytes": 11420388,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5293",
+        "duration": "176.433333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5293",
+        "duration": "176.433333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "176.450000"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "19881ada593cbe13532403c4ea63b13878be95c04f1167e9b3a61a7b8f8edf78",
+      "elapsed_seconds": 119.59
+    },
+    {
+      "id": "7667445947537968424",
+      "publication_time": "2026-07-28 13:26",
+      "pinned": false,
+      "title": "自曝短板，ip获客会强的可怕 最近新发现了一个能帮你哐哐获客的视频框架自曝短板的人格化表达#个人IP #新人博主 #短视频运营 #自媒体运营 #获客",
+      "public_url": "https://www.douyin.com/video/7667445947537968424",
+      "file": "videos/7667445947537968424.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 18819717,
+      "package_bytes": 7369210,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3475",
+        "duration": "115.833333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3475",
+        "duration": "115.833333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "115.843991"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "9e76088160b970f0a4776e26067c4b20589db52cea2ba4abe3e7bf1f9272cebc",
+      "elapsed_seconds": 79.99
+    },
+    {
+      "id": "7667448255944363299",
+      "publication_time": "2026-07-28 13:35",
+      "pinned": false,
+      "title": "拍视频眼镜不反光的2个邪修技巧 学会了都去给我试试！！！#自媒体创业 #个人IP #短视频运营 #自媒体干货 #短视频运营",
+      "public_url": "https://www.douyin.com/video/7667448255944363299",
+      "file": "videos/7667448255944363299.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 3408436,
+      "package_bytes": 3055092,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1391",
+        "duration": "46.366667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1391",
+        "duration": "46.366667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "46.370998"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "722f54aa4b03aeee4aabb37e035db58ab2c15b6532c272f7f801d889ad0b6c97",
+      "elapsed_seconds": 35.93
+    },
+    {
+      "id": "7675648408845077760",
+      "publication_time": "2026-08-19 15:56",
+      "pinned": false,
+      "title": "干货：有播放，为什么不涨粉 为什么你的笔记有流量，但不涨粉？#个人IP #自媒体创业 #自媒体运营 #自媒体干货分享 #短视频运营",
+      "public_url": "https://www.douyin.com/video/7675648408845077760",
+      "file": "videos/7675648408845077760.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 28537626,
+      "package_bytes": 13097659,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6192",
+        "duration": "206.400000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6192",
+        "duration": "206.400000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "206.401995"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "ca7421e792007dfd57549ec0afb7ed1f5b5a7d9bbafc6a2982b9089e4fcfbc71",
+      "elapsed_seconds": 152.92
+    },
+    {
+      "id": "7677853178414632235",
+      "publication_time": "2026-08-25 14:31",
+      "pinned": false,
+      "title": "创业Vlog｜深莞双城一日往返线下分享记录 #个人IP #自媒体创业 #短视频运营 #创业日记 #线下活动",
+      "public_url": "https://www.douyin.com/video/7677853178414632235",
+      "file": "videos/7677853178414632235.mp4",
+      "mode": "original_smaller_than_reencode",
+      "source_bytes": 4688936,
+      "package_bytes": 4688936,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2362",
+        "duration": "78.733333"
+      },
+      "package_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2362",
+        "duration": "78.733333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 2,
+        "sample_rate": "44100",
+        "duration": "78.739002"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "3a19228d591e2d5189e32b301bb805e8d23a7ea162d6eb5af220904bf00ffee3",
+      "elapsed_seconds": 56.39
+    },
+    {
+      "id": "7680178520898719022",
+      "publication_time": "2026-08-31 20:55",
+      "pinned": false,
+      "title": "做自媒体，一定要刻意培养“第三视角”！！ #个人IP #自媒体创业 #新人博主 #短视频运营 #自媒体运营",
+      "public_url": "https://www.douyin.com/video/7680178520898719022",
+      "file": "videos/7680178520898719022.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 26032738,
+      "package_bytes": 9214919,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5091",
+        "duration": "169.700000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5091",
+        "duration": "169.700000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "169.716009"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "d27fed589539d4f21fa74248c918f28a13b8fdcd243b22b64bcc82aae43f4dcd",
+      "elapsed_seconds": 113.82
+    },
+    {
+      "id": "7680798672723922203",
+      "publication_time": "2026-09-02 13:01",
+      "pinned": false,
+      "title": "做自媒体，脸是脸，面相是面相 一篇吐槽帖而已#个人IP #自媒体创业 #短视频运营 #新人博主 #自媒体干货",
+      "public_url": "https://www.douyin.com/video/7680798672723922203",
+      "file": "videos/7680798672723922203.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 17522543,
+      "package_bytes": 9478951,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 1440,
+        "height": 2560,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5364",
+        "duration": "178.800000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5364",
+        "duration": "178.800000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "178.818005"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "554ab4a7dc8cee5d2c82f6f124ca86c8d3441e35ac0501577178c1db7e6b16b6",
+      "elapsed_seconds": 124.64
+    },
+    {
+      "id": "7681264018568301878",
+      "publication_time": "2026-09-03 19:07",
+      "pinned": true,
+      "title": "8年前，当你在《早春晴朗》原型公司工作belike 最近看《早春晴朗》，最大的后劲居然不是爱情。 而是看着剧里的会议室、brief、提案、创意人，突然想起来——噢，原来我也真的经历过这样的青春。 2018年，我在奥美上班。 那时候是真的觉得，能进奥美是一件很酷的事情。身边永远有一群很聪明、很有想法的人，大家会为了一个idea好不好认真吵半天，也会一边喝酒吃外卖一边改不知道第几版方案 当然，当时上班的时候根本没觉得浪漫。加班就是加班，改稿就是改稿，客户该折磨你的时候一点没少折磨哈哈哈哈。 但8年后再回头看，我还是很怀念那段时间。 不是怀念加班，是怀念那个时候的自己—— 对工作有野心，对未来有期待，还真的相信创意能改变一点什么。 所以《早春晴朗》真正戳到我的，可能也是这个。 它突然把一个已经过去很久的年代重新搬到了我面前：那个上班，甚至还会让年轻人觉得自己正在参与一件很酷的事情的年代。 唉，年轻真好🥹#早春晴朗 #奥美 #井柏然 #外企 #个人IP",
+      "public_url": "https://www.douyin.com/video/7681264018568301878",
+      "file": "videos/7681264018568301878.mp4",
+      "mode": "original_smaller_than_reencode",
+      "source_bytes": 628434,
+      "package_bytes": 628434,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "485",
+        "duration": "16.166667"
+      },
+      "package_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "485",
+        "duration": "16.166667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 2,
+        "sample_rate": "44100",
+        "duration": "16.183991"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "d7c45e0ac017fbb9a788150358aecb6077c49e7703ac2479c8e4e7689754625e",
+      "elapsed_seconds": 8.13
+    },
+    {
+      "id": "7682035066289114378",
+      "publication_time": "2026-09-05 20:59",
+      "pinned": false,
+      "title": "拍视频紧张、卡壳、忘词根源在这4个误区 #个人IP #自媒体创业 #短视频运营 #表现力提升 #新人博主",
+      "public_url": "https://www.douyin.com/video/7682035066289114378",
+      "file": "videos/7682035066289114378.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 11579791,
+      "package_bytes": 11322265,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5430",
+        "duration": "181.000000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "5430",
+        "duration": "181.000000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "181.047007"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "b06b0522346439215a761e51dcc871b7167f38b9bbee77ca5004f006cd4ce6de",
+      "elapsed_seconds": 133.19
+    },
+    {
+      "id": "7683555457650216207",
+      "publication_time": "2026-09-09 23:19",
+      "pinned": false,
+      "title": "一分钟学会这7个手势动作，告别口播呆板僵硬 #个人IP #自媒体创业 #短视频运营 #自媒体运营 #新人博主",
+      "public_url": "https://www.douyin.com/video/7683555457650216207",
+      "file": "videos/7683555457650216207.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 5651534,
+      "package_bytes": 1989184,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 2160,
+        "height": 3840,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1012",
+        "duration": "33.733333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1012",
+        "duration": "33.733333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "33.740000"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "ea102c33f5efcbeb550beb242d814dc6631a3d412a16c11e357527ae58e1d598",
+      "elapsed_seconds": 34.16
+    },
+    {
+      "id": "7684286923635952896",
+      "publication_time": "2026-09-11 22:37",
+      "pinned": false,
+      "title": "为什么你明明有流量但没客资？3个内容原则 #自媒体创业 #短视频运营 #新人博主 #自媒体运营 #自媒体干货",
+      "public_url": "https://www.douyin.com/video/7684286923635952896",
+      "file": "videos/7684286923635952896.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 13295714,
+      "package_bytes": 12089970,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6089",
+        "duration": "202.966667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "6089",
+        "duration": "202.966667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "202.967007"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "91508380f86230d11b59c848a48118619f1826b54233aa0ec40960b3658a9731",
+      "elapsed_seconds": 141.83
+    },
+    {
+      "id": "7685742833872964891",
+      "publication_time": "2026-09-15 20:47",
+      "pinned": false,
+      "title": "中女少女感，简直就是全网稀缺的爆款人设！ 中年少女做ip，必火#个人IP #自媒体创业 #自媒体陪跑#短视频运营 #中女时代",
+      "public_url": "https://www.douyin.com/video/7685742833872964891",
+      "file": "videos/7685742833872964891.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 18062140,
+      "package_bytes": 8685534,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 1440,
+        "height": 2560,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3934",
+        "duration": "131.133333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3934",
+        "duration": "131.133333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "131.170998"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "f9178cf3440185b4b3d03601b65ac2c1cdf8c7ec0475749f5ce5be5a6e3570bd",
+      "elapsed_seconds": 98.26
+    },
+    {
+      "id": "7687189281684688143",
+      "publication_time": "2026-09-19 18:20",
+      "pinned": false,
+      "title": "贫穷的根源：不敢卖 #个人IP #自媒体创业 #短视频运营 #自媒体运营 #新人博主",
+      "public_url": "https://www.douyin.com/video/7687189281684688143",
+      "file": "videos/7687189281684688143.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 12365229,
+      "package_bytes": 5428313,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2825",
+        "duration": "94.166667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2825",
+        "duration": "94.166667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "94.180000"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "36299e951ac6a9a1af78647b263a47267c67fc1d1c526508452c22cace8132d7",
+      "elapsed_seconds": 58.77
+    },
+    {
+      "id": "7687516039915113728",
+      "publication_time": "2026-09-20 15:28",
+      "pinned": false,
+      "title": "自媒体就是让你的目标用户反复刷到你 反复被看见#个人IP #自媒体创业 #短视频运营 #自媒体运营 #新人博主",
+      "public_url": "https://www.douyin.com/video/7687516039915113728",
+      "file": "videos/7687516039915113728.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 15850163,
+      "package_bytes": 6958247,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3539",
+        "duration": "117.966667"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3539",
+        "duration": "117.966667"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "117.980998"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "7a50f1086ee4b84357ee53969c963d1b0d5a74578513a67cae9a664179f15229",
+      "elapsed_seconds": 72.11
+    },
+    {
+      "id": "7688274107649035558",
+      "publication_time": "2026-09-22 16:30",
+      "pinned": false,
+      "title": "观众喜欢的是活人感，而不是素人感。 #自媒体 #个人IP #自媒体干货 #自媒体运营 #新人博主",
+      "public_url": "https://www.douyin.com/video/7688274107649035558",
+      "file": "videos/7688274107649035558.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 23662487,
+      "package_bytes": 7780441,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3901",
+        "duration": "130.033333"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3901",
+        "duration": "130.033333"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "130.056009"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "c119a8302edfc85cb65115e79f4089cb4913ee91a08f63ea7aad57312425b3c9",
+      "elapsed_seconds": 73.13
+    },
+    {
+      "id": "7689859557471898934",
+      "publication_time": "2026-09-26 23:02",
+      "pinned": false,
+      "title": "有娃的宝妈做自媒体，能拍的方向简直太多了 #自媒体创业 #个人IP #短视频运营 #自媒体干货 #母婴赛道",
+      "public_url": "https://www.douyin.com/video/7689859557471898934",
+      "file": "videos/7689859557471898934.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 25803532,
+      "package_bytes": 11822406,
+      "source_video": {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4641",
+        "duration": "154.700000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "4641",
+        "duration": "154.700000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "154.715011"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "e8f51817c98d96ea6b8f0bc583c03944f07899d13516af7198908958bbb581fc",
+      "elapsed_seconds": 94.66
+    },
+    {
+      "id": "7690531649808813321",
+      "publication_time": "2026-09-28 18:30",
+      "pinned": false,
+      "title": "95后创业女vlog｜深圳创业和自媒体双轨日常 诶嘿我的宝贝们！欢迎收看我的一周vlog！今天又是出去讲课培训的一天！带大家感受忙到飞起的一天#vlog #短视频运营 #创业vlog #个人IP #养成系创业",
+      "public_url": "https://www.douyin.com/video/7690531649808813321",
+      "file": "videos/7690531649808813321.mp4",
+      "mode": "original_smaller_than_reencode",
+      "source_bytes": 6517681,
+      "package_bytes": 6517681,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2901",
+        "duration": "96.700000"
+      },
+      "package_video": {
+        "codec_name": "hevc",
+        "width": 576,
+        "height": 1024,
+        "r_frame_rate": "30/1",
+        "nb_frames": "2901",
+        "duration": "96.700000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 2,
+        "sample_rate": "44100",
+        "duration": "96.733991"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "0467f1e523537e38db69b306d0071b9d00d74ce47028d80ae040e77c4ab1b53f",
+      "elapsed_seconds": 59.21
+    },
+    {
+      "id": "7690874093255527706",
+      "publication_time": "2026-09-29 16:39",
+      "pinned": false,
+      "title": "口播视频怎么提升镜头交流感实操起来 #短视频运营 #自媒体创业 #自媒体运营 #新人博主 #自媒体干货",
+      "public_url": "https://www.douyin.com/video/7690874093255527706",
+      "file": "videos/7690874093255527706.mp4",
+      "mode": "av1_480_crf42",
+      "source_bytes": 16625267,
+      "package_bytes": 4236604,
+      "source_video": {
+        "codec_name": "hevc",
+        "width": 2160,
+        "height": 3840,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1707",
+        "duration": "56.900000"
+      },
+      "package_video": {
+        "codec_name": "av1",
+        "width": 480,
+        "height": 854,
+        "r_frame_rate": "30/1",
+        "nb_frames": "1707",
+        "duration": "56.900000"
+      },
+      "package_audio": {
+        "codec_name": "aac",
+        "channels": 1,
+        "sample_rate": "44100",
+        "duration": "56.912993"
+      },
+      "full_decode_pass": true,
+      "frame_count_match": true,
+      "sha256": "19a52a03b4c85ff9d9396adbc30a472057326f5ab54fe54d636c71cb1b385941",
+      "elapsed_seconds": 43.34
+    }
+  ]
+}

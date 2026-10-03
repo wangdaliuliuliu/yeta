@@ -1,0 +1,1785 @@
+{
+  "selection_check": {
+    "candidate_count": 40,
+    "unique_id_count": 40,
+    "pinned_count": 2,
+    "non_pinned_count": 38,
+    "duplicate_ids": [],
+    "profile_orders_are_1_to_40": true,
+    "selection_check": "pass",
+    "basis": "catalog/recent40_candidates.json: two pinned cards plus 38 non-pinned profile-order cards; deduplicated by ID"
+  },
+  "ordering": "publication_time ascending; missing dates last",
+  "items": [
+    {
+      "id": "7642198121565146484",
+      "pinned": false,
+      "profile_order": 40,
+      "publication_time": "2026-05-21 12:31",
+      "title": "关于“违规”这件事#自媒体 #个人ip",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 14514326
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "106.649002",
+        "original_frame_count": 3199,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3199,
+        "directory_frames": 3199,
+        "cv2_frames_read": 3199,
+        "failed_or_missing_count": 0,
+        "candidate_count": 165,
+        "review_sheet_count": 11
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 55,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 106.52,
+        "duration_seconds": 106.649002
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7642284257615875379",
+      "pinned": false,
+      "profile_order": 39,
+      "publication_time": "2026-05-21 18:06",
+      "title": "看完了再决定自己要不要做自媒体 #短视频 #自媒体 #个人IP",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 28793428
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "206.588005",
+        "original_frame_count": 6197,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 6197,
+        "directory_frames": 6197,
+        "cv2_frames_read": 6197,
+        "failed_or_missing_count": 0,
+        "candidate_count": 317,
+        "review_sheet_count": 20
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 104,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 206.44,
+        "duration_seconds": 206.588005
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7642620715061944488",
+      "pinned": false,
+      "profile_order": 38,
+      "publication_time": "2026-05-22 15:51",
+      "title": "最近做自媒体有点小感悟——被夸和被骂，本质上居然是同一件事。 不管是收到好评还是负面评价，其实都是有人在认真看你的内容呀～#自媒体#个人ip#短视频运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 14731314
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "113.521995",
+        "original_frame_count": 3404,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3404,
+        "directory_frames": 3404,
+        "cv2_frames_read": 3404,
+        "failed_or_missing_count": 0,
+        "candidate_count": 173,
+        "review_sheet_count": 11
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 77,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 113.22,
+        "duration_seconds": 113.521995
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7643078182933006720",
+      "pinned": false,
+      "profile_order": 37,
+      "publication_time": "2026-05-23 21:26",
+      "title": "分享一些大大方方做自媒体的小tips#自媒体#个人ip#ip陪跑",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 23014822
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "154.482653",
+        "original_frame_count": 4634,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 4634,
+        "directory_frames": 4634,
+        "cv2_frames_read": 4634,
+        "failed_or_missing_count": 0,
+        "candidate_count": 240,
+        "review_sheet_count": 15
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 100,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 154.32,
+        "duration_seconds": 154.482653
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7643752789071449359",
+      "pinned": false,
+      "profile_order": 36,
+      "publication_time": "2026-05-25 17:04",
+      "title": "真正辨别“聪明人”的方法 #个人ip #自媒体运营 #自媒体创业 #短视频运营 #新手博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 16748609
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "110.271769",
+        "original_frame_count": 3308,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3308,
+        "directory_frames": 3308,
+        "cv2_frames_read": 3308,
+        "failed_or_missing_count": 0,
+        "candidate_count": 168,
+        "review_sheet_count": 11
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 47,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 110.18,
+        "duration_seconds": 110.271769
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7646383121931291910",
+      "pinned": false,
+      "profile_order": 35,
+      "publication_time": "2026-06-01 19:11",
+      "title": "审美越高 做自媒体越痛苦 #个人ip #短视频运营 #自媒体干货 #自媒体创业 #新人博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 14417808
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "92.740680",
+        "original_frame_count": 2782,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 2782,
+        "directory_frames": 2782,
+        "cv2_frames_read": 2782,
+        "failed_or_missing_count": 0,
+        "candidate_count": 140,
+        "review_sheet_count": 9
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 38,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 92.56,
+        "duration_seconds": 92.74068
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7646791644632583460",
+      "pinned": false,
+      "profile_order": 34,
+      "publication_time": "2026-06-02 21:37",
+      "title": "自媒体陪跑1v1线下指导全流程 #IP陪跑 #自媒体创业 #新手博主 #个人IP #短视频运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 3906582
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "37.200000",
+        "original_frame_count": 1116,
+        "codec": "h264",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 1116,
+        "directory_frames": 1116,
+        "cv2_frames_read": 1116,
+        "failed_or_missing_count": 0,
+        "candidate_count": 57,
+        "review_sheet_count": 4
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "span_incomplete",
+        "file": "present",
+        "segment_count": 11,
+        "first_segment_start_seconds": 24.16,
+        "last_segment_end_seconds": 28.74,
+        "duration_seconds": 37.2
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7647381882178374931",
+      "pinned": false,
+      "profile_order": 33,
+      "publication_time": "2026-06-04 11:47",
+      "title": "AI时代能赚钱的博主都很会构建「个人知识库」 今天参加 ima OpenDay。最大的感触是：AI时代，内容越来越容易生产。但真正值钱的，是你沉淀下来的知识资产。以前做自媒体：发一条内容，价值只存在一天。现在如果能把经验、案例、观点持续沉淀到知识库里。一次输出，未来可能被反复搜索、反复调用、反复使用。内容是消耗品。知识资产却有机会持续产生价值。这也是我看到 ima知识号 最有感触的一点。它不只是发内容。而是在帮创作者把碎片化输出，慢慢沉淀成自己的知识资产。未来创作者拼的可能不再是谁更新得快。而是谁拥有更多可复用、可积累、可变现的知识资产。 #ima知识号 #知识资产 #AI工具 #自媒体运营 #知识库",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 17876201
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "119.629002",
+        "original_frame_count": 3588,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3588,
+        "directory_frames": 3588,
+        "cv2_frames_read": 3588,
+        "failed_or_missing_count": 0,
+        "candidate_count": 181,
+        "review_sheet_count": 12
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 77,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 119.54,
+        "duration_seconds": 119.629002
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7647845197472189722",
+      "pinned": false,
+      "profile_order": 32,
+      "publication_time": "2026-06-05 17:45",
+      "title": "教培机构/独立老师拍视频，这样做客资加到爆 教培人做自媒体，别再踩这3拍5不拍的坑了！吸引中高端家长，不是拼剪辑、喊口号、制造焦虑而是比谁更懂真实焦虑，谁真把孩子当自己的对待五类视频不要拍：教家长、讲术语、玩套路、只晒结果、蹭流量三件事要坚持做：展示差异化、精准人群定位、呈现真实过程方向对了，来的都是愿意为教育价值买单的同频家长 #教育IP #中高端家长 #教育赛道 #自媒体运营 #个人ip #教培自媒体",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 42713866
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "254.792562",
+        "original_frame_count": 7643,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 7643,
+        "directory_frames": 7643,
+        "cv2_frames_read": 7643,
+        "failed_or_missing_count": 0,
+        "candidate_count": 388,
+        "review_sheet_count": 25
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 211,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 254.7,
+        "duration_seconds": 254.792562
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7648164755579866431",
+      "pinned": false,
+      "profile_order": 31,
+      "publication_time": "2026-06-06 14:25",
+      "title": "自媒体 | 课程vs私教，区别在哪里？ #IP陪跑 #自媒体创业 #新手博主 #个人IP #短视频运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 15057740
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "88.233991",
+        "original_frame_count": 2647,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 2647,
+        "directory_frames": 2647,
+        "cv2_frames_read": 2647,
+        "failed_or_missing_count": 0,
+        "candidate_count": 135,
+        "review_sheet_count": 9
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 49,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 88.2,
+        "duration_seconds": 88.233991
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7649667628167892259",
+      "pinned": false,
+      "profile_order": 30,
+      "publication_time": "2026-06-10 15:37",
+      "title": "4招拿捏表现力呆板、僵硬、念稿感全走开 听完包你口播有表现力，看看你在哪个阶段？#自媒体创业#表现力提升 #个人ip #新人博主#口播视频",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 18364978
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "118.466667",
+        "original_frame_count": 3554,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3554,
+        "directory_frames": 3554,
+        "cv2_frames_read": 3554,
+        "failed_or_missing_count": 0,
+        "candidate_count": 182,
+        "review_sheet_count": 12
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 71,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 118.42,
+        "duration_seconds": 118.466667
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7650160110718782754",
+      "pinned": false,
+      "profile_order": 29,
+      "publication_time": "2026-06-11 23:28",
+      "title": "关于陪跑，我为什么一开始就劝退不合适的人？ #个人ip #自媒体运营 #短视频运营 #自媒体创业 #小红书博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 3363448
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "35.733333",
+        "original_frame_count": 1072,
+        "codec": "h264",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 1072,
+        "directory_frames": 1072,
+        "cv2_frames_read": 1072,
+        "failed_or_missing_count": 0,
+        "candidate_count": 54,
+        "review_sheet_count": 4
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 19,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 35.36,
+        "duration_seconds": 35.733333
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7650443636907216182",
+      "pinned": false,
+      "profile_order": 28,
+      "publication_time": "2026-06-12 17:48",
+      "title": "律师ip的爆款内容怎么拍！保姆级干货 我的律师学员几千粉案源接到手软一条视频获客1000另一个学员才发了几条视频就接到了百万博主的委托律师做ip，太容易了！！！#自媒体创业 #律师IP #新人博主 #自媒体干货 #律师获客",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 36180462
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "254.328005",
+        "original_frame_count": 7629,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 7629,
+        "directory_frames": 7629,
+        "cv2_frames_read": 7629,
+        "failed_or_missing_count": 0,
+        "candidate_count": 390,
+        "review_sheet_count": 25
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 210,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 253.88,
+        "duration_seconds": 254.328005
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7650900395115564303",
+      "pinned": false,
+      "profile_order": 27,
+      "publication_time": "2026-06-13 23:21",
+      "title": "如何在无反馈期还能坚持做事、保持执行密度 让自己保持在牌桌上就已经赢了90%的人#自媒体创业 #个人ip #自媒体运营 #自媒体干货分享 #新手博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 24752982
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "204.381995",
+        "original_frame_count": 6131,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 6131,
+        "directory_frames": 6131,
+        "cv2_frames_read": 6131,
+        "failed_or_missing_count": 0,
+        "candidate_count": 311,
+        "review_sheet_count": 20
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 124,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 204.24,
+        "duration_seconds": 204.381995
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7652580545800457515",
+      "pinned": false,
+      "profile_order": 26,
+      "publication_time": "2026-06-18 12:00",
+      "title": "AI影像邪修又升级了美图影像节Vlog 别纠结了！先开拍再说！又是被有趣且高级的审美浸泡住的一天#开拍app #口播视频 #网感剪辑 #美图影响节 #2026美图影像节",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 30222531
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "155.873991",
+        "original_frame_count": 4676,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 4676,
+        "directory_frames": 4676,
+        "cv2_frames_read": 4676,
+        "failed_or_missing_count": 0,
+        "candidate_count": 236,
+        "review_sheet_count": 15
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 95,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 155.5,
+        "duration_seconds": 155.873991
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7654151382865415487",
+      "pinned": false,
+      "profile_order": 25,
+      "publication_time": "2026-06-22 17:36",
+      "title": "看完向佐访谈，比没流量更可怕的是“空心人” 做自媒体，未来第一批被淘汰的一定是“空心人”博主#新人博主 #自媒体创业 #个人IP #自媒体干货分享 #向佐",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 31936305
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "155.573991",
+        "original_frame_count": 4667,
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 4667,
+        "directory_frames": 4667,
+        "cv2_frames_read": 4667,
+        "failed_or_missing_count": 0,
+        "candidate_count": 236,
+        "review_sheet_count": 15
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 85,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 155.48,
+        "duration_seconds": 155.573991
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7657972841173798153",
+      "pinned": false,
+      "profile_order": 24,
+      "publication_time": "2026-07-03 00:45",
+      "title": "讲真，教培行业真的是冰两重天 建议所有没生源的老师尽早转型，越是没生源越要做自媒体#自媒体创业 #个人IP #新人博主 #自媒体运营 #教师IP",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 24698464
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "177.934853",
+        "original_frame_count": 5338,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 5338,
+        "directory_frames": 5338,
+        "cv2_frames_read": 5338,
+        "failed_or_missing_count": 0,
+        "candidate_count": 271,
+        "review_sheet_count": 17
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 110,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 176.76000000000002,
+        "duration_seconds": 177.934853
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7660088454587485446",
+      "pinned": false,
+      "profile_order": 23,
+      "publication_time": "2026-07-08 17:35",
+      "title": "4种高级感字体！土味视频说拜拜 瞬间提升视频质感！#自媒体干货 #自媒体创业 #个人IP#新手博主 #短视频运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 7466341
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "57.073991",
+        "original_frame_count": 1712,
+        "codec": "h264",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 1712,
+        "directory_frames": 1712,
+        "cv2_frames_read": 1712,
+        "failed_or_missing_count": 0,
+        "candidate_count": 92,
+        "review_sheet_count": 6
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 49,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 56.58,
+        "duration_seconds": 57.073991
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7660785718813297946",
+      "pinned": false,
+      "profile_order": 22,
+      "publication_time": "2026-07-10 14:41",
+      "title": "一旦放弃状态洁癖，自媒体突然就做起来了！ #自媒体创业 #个人ip #新手博主 #短视频运营 #自媒体干货",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 25400798
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "104.745011",
+        "original_frame_count": 3142,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3142,
+        "directory_frames": 3142,
+        "cv2_frames_read": 3142,
+        "failed_or_missing_count": 0,
+        "candidate_count": 163,
+        "review_sheet_count": 11
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 73,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 104.64,
+        "duration_seconds": 104.745011
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7660799379078516014",
+      "pinned": false,
+      "profile_order": 21,
+      "publication_time": "2026-07-10 15:34",
+      "title": "当一群自媒体人线下奔现，场面有多上头 #个人ip #新人博主 #自媒体创业 #自媒体运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 29193766
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "133.746939",
+        "original_frame_count": 4011,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 4011,
+        "directory_frames": 4011,
+        "cv2_frames_read": 4011,
+        "failed_or_missing_count": 0,
+        "candidate_count": 203,
+        "review_sheet_count": 13
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 96,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 132.84,
+        "duration_seconds": 133.746939
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7661892409403493695",
+      "pinned": true,
+      "profile_order": 1,
+      "publication_time": "2026-07-13 14:15",
+      "title": "精神世界越丰富的人，越不适合做博主 #自媒体创业 #个人IP #短视频运营 #新人博主 #自媒体运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 27579215
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "128.685011",
+        "original_frame_count": 3860,
+        "codec": "hevc",
+        "width": 1440,
+        "height": 2560
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3860,
+        "directory_frames": 3860,
+        "cv2_frames_read": 3860,
+        "failed_or_missing_count": 0,
+        "candidate_count": 196,
+        "review_sheet_count": 13
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 91,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 128.52,
+        "duration_seconds": 128.685011
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7664937363994414372",
+      "pinned": false,
+      "profile_order": 20,
+      "publication_time": "2026-07-21 19:11",
+      "title": "从0-10000粉，自媒体变现必经的3个节点 #自媒体创业 #个人IP #新人博主 #短视频运营 #自媒体运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 17344025
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "142.849002",
+        "original_frame_count": 4285,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 4285,
+        "directory_frames": 4285,
+        "cv2_frames_read": 4285,
+        "failed_or_missing_count": 0,
+        "candidate_count": 216,
+        "review_sheet_count": 14
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 84,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 142.84,
+        "duration_seconds": 142.849002
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7666364339087035691",
+      "pinned": false,
+      "profile_order": 19,
+      "publication_time": "2026-07-25 15:29",
+      "title": "真正赚钱的账号，一定要拍这3种内容 让用户忍不住为你付费#个人IP #新人博主 #短视频运营 #自媒体运营 #自媒体干货",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 35954746
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "176.448005",
+        "original_frame_count": 5293,
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 5293,
+        "directory_frames": 5293,
+        "cv2_frames_read": 5293,
+        "failed_or_missing_count": 0,
+        "candidate_count": 271,
+        "review_sheet_count": 17
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 116,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 176.44,
+        "duration_seconds": 176.448005
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7667445947537968424",
+      "pinned": false,
+      "profile_order": 18,
+      "publication_time": "2026-07-28 13:26",
+      "title": "自曝短板，ip获客会强的可怕 最近新发现了一个能帮你哐哐获客的视频框架自曝短板的人格化表达#个人IP #新人博主 #短视频运营 #自媒体运营 #获客",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 18819717
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "115.844580",
+        "original_frame_count": 3475,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3475,
+        "directory_frames": 3475,
+        "cv2_frames_read": 3475,
+        "failed_or_missing_count": 0,
+        "candidate_count": 177,
+        "review_sheet_count": 12
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 97,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 115.84,
+        "duration_seconds": 115.84458
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7667448255944363299",
+      "pinned": false,
+      "profile_order": 17,
+      "publication_time": "2026-07-28 13:35",
+      "title": "拍视频眼镜不反光的2个邪修技巧 学会了都去给我试试！！！#自媒体创业 #个人IP #短视频运营 #自媒体干货 #短视频运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 3408436
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "46.368005",
+        "original_frame_count": 1391,
+        "codec": "hevc",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 1391,
+        "directory_frames": 1391,
+        "cv2_frames_read": 1391,
+        "failed_or_missing_count": 0,
+        "candidate_count": 71,
+        "review_sheet_count": 5
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 31,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 46.36,
+        "duration_seconds": 46.368005
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7675648408845077760",
+      "pinned": false,
+      "profile_order": 16,
+      "publication_time": "2026-08-19 15:56",
+      "title": "干货：有播放，为什么不涨粉 为什么你的笔记有流量，但不涨粉？#个人IP #自媒体创业 #自媒体运营 #自媒体干货分享 #短视频运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 28537626
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "206.402585",
+        "original_frame_count": 6192,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 6192,
+        "directory_frames": 6192,
+        "cv2_frames_read": 6192,
+        "failed_or_missing_count": 0,
+        "candidate_count": 316,
+        "review_sheet_count": 20
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 148,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 206.4,
+        "duration_seconds": 206.402585
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7677853178414632235",
+      "pinned": false,
+      "profile_order": 15,
+      "publication_time": "2026-08-25 14:31",
+      "title": "创业Vlog｜深莞双城一日往返线下分享记录 #个人IP #自媒体创业 #短视频运营 #创业日记 #线下活动",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 4688936
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "78.739002",
+        "original_frame_count": 2362,
+        "codec": "hevc",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 2362,
+        "directory_frames": 2362,
+        "cv2_frames_read": 2362,
+        "failed_or_missing_count": 0,
+        "candidate_count": 122,
+        "review_sheet_count": 8
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "span_incomplete",
+        "file": "present",
+        "segment_count": 17,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 75.6,
+        "duration_seconds": 78.739002
+      },
+      "ocr": {
+        "status": "progress_only",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7680178520898719022",
+      "pinned": false,
+      "profile_order": 14,
+      "publication_time": "2026-08-31 20:55",
+      "title": "做自媒体，一定要刻意培养“第三视角”！！ #个人IP #自媒体创业 #新人博主 #短视频运营 #自媒体运营",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 26032738
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "169.714989",
+        "original_frame_count": 5091,
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 5091,
+        "directory_frames": 5091,
+        "cv2_frames_read": 5091,
+        "failed_or_missing_count": 0,
+        "candidate_count": 260,
+        "review_sheet_count": 17
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 105,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 169.66,
+        "duration_seconds": 169.714989
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7680798672723922203",
+      "pinned": false,
+      "profile_order": 13,
+      "publication_time": "2026-09-02 13:01",
+      "title": "做自媒体，脸是脸，面相是面相 一篇吐槽帖而已#个人IP #自媒体创业 #短视频运营 #新人博主 #自媒体干货",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 17522543
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "178.817007",
+        "original_frame_count": 5364,
+        "codec": "hevc",
+        "width": 1440,
+        "height": 2560
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 5364,
+        "directory_frames": 5364,
+        "cv2_frames_read": 5364,
+        "failed_or_missing_count": 0,
+        "candidate_count": 271,
+        "review_sheet_count": 17
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 93,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 178.72,
+        "duration_seconds": 178.817007
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7681264018568301878",
+      "pinned": true,
+      "profile_order": 2,
+      "publication_time": "2026-09-03 19:07",
+      "title": "8年前，当你在《早春晴朗》原型公司工作belike 最近看《早春晴朗》，最大的后劲居然不是爱情。 而是看着剧里的会议室、brief、提案、创意人，突然想起来——噢，原来我也真的经历过这样的青春。 2018年，我在奥美上班。 那时候是真的觉得，能进奥美是一件很酷的事情。身边永远有一群很聪明、很有想法的人，大家会为了一个idea好不好认真吵半天，也会一边喝酒吃外卖一边改不知道第几版方案 当然，当时上班的时候根本没觉得浪漫。加班就是加班，改稿就是改稿，客户该折磨你的时候一点没少折磨哈哈哈哈。 但8年后再回头看，我还是很怀念那段时间。 不是怀念加班，是怀念那个时候的自己—— 对工作有野心，对未来有期待，还真的相信创意能改变一点什么。 所以《早春晴朗》真正戳到我的，可能也是这个。 它突然把一个已经过去很久的年代重新搬到了我面前：那个上班，甚至还会让年轻人觉得自己正在参与一件很酷的事情的年代。 唉，年轻真好🥹#早春晴朗 #奥美 #井柏然 #外企 #个人IP",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 628434
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "16.183991",
+        "original_frame_count": 485,
+        "codec": "hevc",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 485,
+        "directory_frames": 485,
+        "cv2_frames_read": 485,
+        "failed_or_missing_count": 0,
+        "candidate_count": 26,
+        "review_sheet_count": 2
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "span_incomplete",
+        "file": "present",
+        "segment_count": 1,
+        "first_segment_start_seconds": 14.74,
+        "last_segment_end_seconds": 16.16,
+        "duration_seconds": 16.183991
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7682035066289114378",
+      "pinned": false,
+      "profile_order": 12,
+      "publication_time": "2026-09-05 20:59",
+      "title": "拍视频紧张、卡壳、忘词根源在这4个误区 #个人IP #自媒体创业 #短视频运营 #表现力提升 #新人博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 11579791
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "181.022993",
+        "original_frame_count": 5430,
+        "codec": "hevc",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 5430,
+        "directory_frames": 5430,
+        "cv2_frames_read": 5430,
+        "failed_or_missing_count": 0,
+        "candidate_count": 275,
+        "review_sheet_count": 18
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 106,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 181.02,
+        "duration_seconds": 181.022993
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7683555457650216207",
+      "pinned": false,
+      "profile_order": 11,
+      "publication_time": "2026-09-09 23:19",
+      "title": "一分钟学会这7个手势动作，告别口播呆板僵硬 #个人IP #自媒体创业 #短视频运营 #自媒体运营 #新人博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 5651534
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "33.738005",
+        "original_frame_count": 1012,
+        "codec": "hevc",
+        "width": 2160,
+        "height": 3840
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 1012,
+        "directory_frames": 1012,
+        "cv2_frames_read": 1012,
+        "failed_or_missing_count": 0,
+        "candidate_count": 52,
+        "review_sheet_count": 4
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 6,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 33.72,
+        "duration_seconds": 33.738005
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7684286923635952896",
+      "pinned": false,
+      "profile_order": 10,
+      "publication_time": "2026-09-11 22:37",
+      "title": "为什么你明明有流量但没客资？3个内容原则 #自媒体创业 #短视频运营 #新人博主 #自媒体运营 #自媒体干货",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 13295714
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "202.966667",
+        "original_frame_count": 6089,
+        "codec": "hevc",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 6089,
+        "directory_frames": 6089,
+        "cv2_frames_read": 6089,
+        "failed_or_missing_count": 0,
+        "candidate_count": 308,
+        "review_sheet_count": 20
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 184,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 202.74,
+        "duration_seconds": 202.966667
+      },
+      "ocr": {
+        "status": "missing",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7685742833872964891",
+      "pinned": false,
+      "profile_order": 9,
+      "publication_time": "2026-09-15 20:47",
+      "title": "中女少女感，简直就是全网稀缺的爆款人设！ 中年少女做ip，必火#个人IP #自媒体创业 #自媒体陪跑#短视频运营 #中女时代",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 18062140
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "131.146009",
+        "original_frame_count": 3934,
+        "codec": "hevc",
+        "width": 1440,
+        "height": 2560
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3934,
+        "directory_frames": 3934,
+        "cv2_frames_read": 3934,
+        "failed_or_missing_count": 0,
+        "candidate_count": 199,
+        "review_sheet_count": 13
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 88,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 131.08,
+        "duration_seconds": 131.146009
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7687189281684688143",
+      "pinned": false,
+      "profile_order": 8,
+      "publication_time": "2026-09-19 18:20",
+      "title": "贫穷的根源：不敢卖 #个人IP #自媒体创业 #短视频运营 #自媒体运营 #新人博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 12365229
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "94.180000",
+        "original_frame_count": 2825,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 2825,
+        "directory_frames": 2825,
+        "cv2_frames_read": 2825,
+        "failed_or_missing_count": 0,
+        "candidate_count": 145,
+        "review_sheet_count": 10
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 67,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 94.04,
+        "duration_seconds": 94.18
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7687516039915113728",
+      "pinned": false,
+      "profile_order": 7,
+      "publication_time": "2026-09-20 15:28",
+      "title": "自媒体就是让你的目标用户反复刷到你 反复被看见#个人IP #自媒体创业 #短视频运营 #自媒体运营 #新人博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 15850163
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "117.980816",
+        "original_frame_count": 3539,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3539,
+        "directory_frames": 3539,
+        "cv2_frames_read": 3539,
+        "failed_or_missing_count": 0,
+        "candidate_count": 178,
+        "review_sheet_count": 12
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 88,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 117.96,
+        "duration_seconds": 117.980816
+      },
+      "ocr": {
+        "status": "progress_only",
+        "file": "missing"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7688274107649035558",
+      "pinned": false,
+      "profile_order": 6,
+      "publication_time": "2026-09-22 16:30",
+      "title": "观众喜欢的是活人感，而不是素人感。 #自媒体 #个人IP #自媒体干货 #自媒体运营 #新人博主",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 23662487
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "130.055011",
+        "original_frame_count": 3901,
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 3901,
+        "directory_frames": 3901,
+        "cv2_frames_read": 3901,
+        "failed_or_missing_count": 0,
+        "candidate_count": 200,
+        "review_sheet_count": 13
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 100,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 128.72,
+        "duration_seconds": 130.055011
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7689859557471898934",
+      "pinned": false,
+      "profile_order": 5,
+      "publication_time": "2026-09-26 23:02",
+      "title": "有娃的宝妈做自媒体，能拍的方向简直太多了 #自媒体创业 #个人IP #短视频运营 #自媒体干货 #母婴赛道",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 25803532
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "154.714853",
+        "original_frame_count": 4641,
+        "codec": "h264",
+        "width": 720,
+        "height": 1280
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 4641,
+        "directory_frames": 4641,
+        "cv2_frames_read": 4641,
+        "failed_or_missing_count": 0,
+        "candidate_count": 235,
+        "review_sheet_count": 15
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 123,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 154.68,
+        "duration_seconds": 154.714853
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7690531649808813321",
+      "pinned": false,
+      "profile_order": 4,
+      "publication_time": "2026-09-28 18:30",
+      "title": "95后创业女vlog｜深圳创业和自媒体双轨日常 诶嘿我的宝贝们！欢迎收看我的一周vlog！今天又是出去讲课培训的一天！带大家感受忙到飞起的一天#vlog #短视频运营 #创业vlog #个人IP #养成系创业",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 6517681
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "96.733991",
+        "original_frame_count": 2901,
+        "codec": "hevc",
+        "width": 576,
+        "height": 1024
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 2901,
+        "directory_frames": 2901,
+        "cv2_frames_read": 2901,
+        "failed_or_missing_count": 0,
+        "candidate_count": 147,
+        "review_sheet_count": 10
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 55,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 96.42,
+        "duration_seconds": 96.733991
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    },
+    {
+      "id": "7690874093255527706",
+      "pinned": false,
+      "profile_order": 3,
+      "publication_time": "2026-09-29 16:39",
+      "title": "口播视频怎么提升镜头交流感实操起来 #短视频运营 #自媒体创业 #自媒体运营 #新人博主 #自媒体干货",
+      "page_evidence": "present",
+      "source_mp4": {
+        "status": "present",
+        "bytes": 16625267
+      },
+      "media": {
+        "fps": "30/1",
+        "duration_seconds": "56.911995",
+        "original_frame_count": 1707,
+        "codec": "hevc",
+        "width": 2160,
+        "height": 3840
+      },
+      "frame_scan": {
+        "status": "complete",
+        "mechanical_count_check": "pass",
+        "indexed_frames": 1707,
+        "directory_frames": 1707,
+        "cv2_frames_read": 1707,
+        "failed_or_missing_count": 0,
+        "candidate_count": 87,
+        "review_sheet_count": 6
+      },
+      "asr": {
+        "artifact_status": "processed",
+        "endpoint_span_diagnostic": "near_full_endpoint_span",
+        "file": "present",
+        "segment_count": 37,
+        "first_segment_start_seconds": 0.0,
+        "last_segment_end_seconds": 56.62,
+        "duration_seconds": 56.911995
+      },
+      "ocr": {
+        "status": "present",
+        "file": "present"
+      },
+      "per_video_report": "present"
+    }
+  ],
+  "generated_from": [
+    "catalog/recent40_candidates.json",
+    "work/*_page.json",
+    "work/<id>/metadata.json",
+    "work/<id>/frame_scan.json",
+    "work/<id>/asr.json",
+    "work/<id>/ocr.json",
+    "sources/<id>.mp4",
+    "reports/per_video/<id>.md"
+  ]
+}
