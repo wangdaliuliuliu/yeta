@@ -1,8 +1,8 @@
 {
   "account_name": "椰挞进步没！（ip私教陪跑）",
   "account_id": "43101871626",
-  "count": 40,
-  "source": "原采集范围：catalog/recent40_candidates.json 的40个唯一ID；发布时间、展示顺序取 catalog/chronological40.json items（升序，缺日期在末尾）。",
+  "count": 45,
+  "source": "历史40条冻结样本，加每日监控中详情页验证的增量作品；非完整历史账号列表。",
   "items": [
     {
       "id": "7642198121565146484",
@@ -283,6 +283,52 @@
       "title": "口播视频怎么提升镜头交流感实操起来 #短视频运营 #自媒体创业 #自媒体运营 #新人博主 #自媒体干货",
       "pinned": false,
       "public_url": "https://www.douyin.com/video/7690874093255527706"
+    },
+    {
+      "id": "7692449347711044864",
+      "publication_time": "2026-10-03 22:32",
+      "title": "建议普通人都去做一个认知型账号（附4年实操心得 #个人IP #短视频运营 #自媒体创业 #自媒体运营 #新人博主",
+      "pinned": false,
+      "public_url": "https://www.douyin.com/video/7692449347711044864",
+      "content_file": "reports/per_video/7692449347711044864.md",
+      "transcript_file": "transcripts/7692449347711044864/画面字幕_阅读版.txt"
+    },
+    {
+      "id": "7694172624598895926",
+      "publication_time": "2026-10-08 13:59",
+      "title": "10-12月职场/成长赛道想起号，必拍7个方向！ 职场人打工人的宝贝们！Q4真的是这个赛道的流量高峰期！#个人IP #短视频运营 #自媒体创业 #新人博主 #职场IP",
+      "pinned": false,
+      "public_url": "https://www.douyin.com/video/7694172624598895926",
+      "content_file": "reports/per_video/7694172624598895926.md",
+      "transcript_file": "transcripts/7694172624598895926/画面字幕_阅读版.txt"
+    },
+    {
+      "id": "7694981111352544563",
+      "publication_time": "2026-10-10 18:16",
+      "title": "漂亮的女孩 你没有理由不做自媒体 #短视频运营 #自媒体创业 #自媒体运营 #新人博主 #自媒体干货",
+      "pinned": false,
+      "public_url": "https://www.douyin.com/video/7694981111352544563",
+      "content_file": "reports/per_video/7694981111352544563.md",
+      "transcript_file": "transcripts/7694981111352544563/画面字幕_阅读版.txt"
+    },
+    {
+      "id": "7696842343596477705",
+      "publication_time": "2026-10-15 18:39",
+      "title": "擅长做高客单的人，身上是没有“讨好感”的。 反向思考了一下我的健身私教是如何成交我的？#个人IP #短视频运营 #自媒体创业 #自媒体运营 #新人博主",
+      "pinned": false,
+      "public_url": "https://www.douyin.com/video/7696842343596477705",
+      "content_file": "reports/per_video/7696842343596477705.md",
+      "transcript_file": "transcripts/7696842343596477705/画面字幕_阅读版.txt"
+    },
+    {
+      "id": "7698304331702881574",
+      "publication_time": "2026-10-19 17:12",
+      "title": "做自媒体千万不要低估播放量不到200的威力！ #个人IP #短视频运营 #自媒体创业 #新人博主 #自媒体干货分享",
+      "pinned": false,
+      "public_url": "https://www.douyin.com/video/7698304331702881574",
+      "content_file": "reports/per_video/7698304331702881574.md",
+      "transcript_file": "transcripts/7698304331702881574/画面字幕_阅读版.txt"
     }
-  ]
+  ],
+  "historical_source": "原采集范围：catalog/recent40_candidates.json 的40个唯一ID；发布时间、展示顺序取 catalog/chronological40.json items（升序，缺日期在末尾）。"
 }
