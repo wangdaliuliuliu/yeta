@@ -1,8 +1,8 @@
 {
   "account_id": "43101871626",
-  "archived_work_count": 45,
-  "new_work_count": 5,
-  "updated_on": "2026-10-25",
+  "archived_work_count": 46,
+  "new_work_count": 1,
+  "updated_on": "2026-10-31",
   "original_media_included": false,
   "transcript_status": "machine_ocr_not_word_verified",
   "files": [
@@ -18,8 +18,8 @@
     },
     {
       "path": "catalog/incremental_index.json",
-      "bytes": 47445,
-      "sha256": "651e5a9d09d33f4071f82aea863e01b5d8cdc069a12550f7bad9194a3bbbd54b"
+      "bytes": 10566,
+      "sha256": "f7f3397c7d522a8ecefc49bad3c37e2535f262820f1d8e4661cfde7cfddb13f1"
     },
     {
       "path": "catalog/media_manifest.json",
@@ -48,8 +48,8 @@
     },
     {
       "path": "catalog/research_catalog.json",
-      "bytes": 19716,
-      "sha256": "8636db1d28d8d9cf3c921d7ad5479ded08863dd245b2fef448791b19ce0d6373"
+      "bytes": 20306,
+      "sha256": "8e2e2c32226f4f307399a13945fbea9f54eeec788d0263acae3a36fcbbdff1ca"
     },
     {
       "path": "catalog/视频索引.csv",
@@ -63,8 +63,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1913,
-      "sha256": "bd2ef383c557e724aea7053237a02355cf506f2a9c5a21fb15b01629952c5e2e"
+      "bytes": 2191,
+      "sha256": "aacc7334caeced50c0116a62838fe163a1355ecd0997e3ca96bf0c0b611866e8"
     },
     {
       "path": "reports/coverage.md",
@@ -302,6 +302,11 @@
       "sha256": "e1c023e464df1a8b6fa492a69d860f2471d3f797023b8a4107d4ba387beef08e"
     },
     {
+      "path": "reports/per_video/7702408719396572431.md",
+      "bytes": 10967,
+      "sha256": "50ca59f506bf084381406973d8a161f579c49f689df2dffd399f38245f80e4e6"
+    },
+    {
       "path": "reports/root_verification.md",
       "bytes": 4588,
       "sha256": "47371ea146643a75f57897259e1ce248e24a38bb48c1822561d9984626e4f97c"
@@ -310,6 +315,11 @@
       "path": "reports/updates/2026-10-25.md",
       "bytes": 8065,
       "sha256": "81f2ee8a9d25628258995d1732aeff90f54e646e4ade7e7fbb42500dad261ca4"
+    },
+    {
+      "path": "reports/updates/2026-10-31.md",
+      "bytes": 5654,
+      "sha256": "3a58ccfd3ecfb6955cd9f7013fb8dbbcad53e3e1d641843dc7a766772a1b3b06"
     },
     {
       "path": "reports/研究报告.md",
@@ -1327,14 +1337,29 @@
       "sha256": "ce0374d0a9ff9fbb186a1286885cb0149e874d62e4223c601d78c0c476d3c259"
     },
     {
+      "path": "transcripts/7702408719396572431/画面字幕_原始OCR.srt",
+      "bytes": 9110,
+      "sha256": "2755b5b9703a671e3180b95d7a467fc601ee0a189f98a1aba8fa57c28719c090"
+    },
+    {
+      "path": "transcripts/7702408719396572431/画面字幕_阅读版.json",
+      "bytes": 9483,
+      "sha256": "503f82792b5e15c6dc41a883993639339ebce576551780fe6853b646d73f73de"
+    },
+    {
+      "path": "transcripts/7702408719396572431/画面字幕_阅读版.txt",
+      "bytes": 3592,
+      "sha256": "c273fff5508a70c06d24f6e46f4eea6d7e7421650da598eab27ceaa4b5e4bca6"
+    },
+    {
       "path": "开始阅读.md",
       "bytes": 2912,
       "sha256": "bd039863810bf3f2056d16d6f4f328c8133cd63e94f6de46cd0b320ade19ca2b"
     },
     {
       "path": "最新增量.md",
-      "bytes": 1085,
-      "sha256": "e459af8e8ff8859fce6b0a2643f4a5b339ca99e168d7157b639f85e614b41faa"
+      "bytes": 678,
+      "sha256": "7b4f42b385db49154a157e11217995ae24db612cf41cca3a029c1223dcd236dd"
     },
     {
       "path": "研究查看器.html",

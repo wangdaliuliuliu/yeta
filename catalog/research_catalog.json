@@ -1,7 +1,7 @@
 {
   "account_name": "椰挞进步没！（ip私教陪跑）",
   "account_id": "43101871626",
-  "count": 45,
+  "count": 46,
   "source": "历史40条冻结样本，加每日监控中详情页验证的增量作品；非完整历史账号列表。",
   "items": [
     {
@@ -328,7 +328,16 @@
       "public_url": "https://www.douyin.com/video/7698304331702881574",
       "content_file": "reports/per_video/7698304331702881574.md",
       "transcript_file": "transcripts/7698304331702881574/画面字幕_阅读版.txt"
+    },
+    {
+      "id": "7702408719396572431",
+      "publication_time": "2026-10-30 18:39",
+      "title": "纯干货如何做个人风格鲜明的活人感账号？ 如果你做自媒体平平无奇缺乏个人特色！那这一期就是专门为你准备的！！！如何做一个个性风格鲜明的活人感账号#个人IP #短视频运营 #自媒体创业 #新人博主 #自媒体运营",
+      "pinned": false,
+      "public_url": "https://www.douyin.com/video/7702408719396572431",
+      "content_file": "reports/per_video/7702408719396572431.md",
+      "transcript_file": "transcripts/7702408719396572431/画面字幕_阅读版.txt"
     }
   ],
-  "historical_source": "原采集范围：catalog/recent40_candidates.json 的40个唯一ID；发布时间、展示顺序取 catalog/chronological40.json items（升序，缺日期在末尾）。"
+  "historical_source": "历史40条冻结样本，加每日监控中详情页验证的增量作品；非完整历史账号列表。"
 }
