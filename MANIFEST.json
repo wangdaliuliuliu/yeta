@@ -1,15 +1,25 @@
 {
   "account_id": "43101871626",
-  "archived_work_count": 48,
-  "new_work_count": 2,
-  "updated_on": "2026-11-08",
+  "archived_work_count": 49,
+  "new_work_count": 1,
+  "updated_on": "2026-11-21",
   "original_media_included": false,
-  "transcript_status": "machine_ocr_not_word_verified",
+  "transcript_status": "machine_ocr_not_word_verified; this work contains visual text only and its audio transcript remains unresolved",
   "files": [
     {
       "path": ".gitignore",
       "bytes": 10,
       "sha256": "fb57a8f6b6086f113c069eaccde221130ecc4454af72be5fcdbba745202a2552"
+    },
+    {
+      "path": "MATERIALS_README.md",
+      "bytes": 1318,
+      "sha256": "f2a6c95d6d17d88276242314e41c7c2d91ebceeaaafba31e7f4e56d16b23a5e7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2747,
+      "sha256": "075a59b739b8e3c280ccb0c48ce713c234e5280f3fc7c4715c2b255e052f02d8"
     },
     {
       "path": "catalog/chronological40.json",
@@ -18,8 +28,8 @@
     },
     {
       "path": "catalog/incremental_index.json",
-      "bytes": 20284,
-      "sha256": "5f80d7ec29b831f6d52b4432b7e6cb5487b383a1659dae0713cad4d6f9753095"
+      "bytes": 24558,
+      "sha256": "78a1f85408f4994f1102c8d7b9a345c691e6e1686ce0da8733e9df9b4755d15e"
     },
     {
       "path": "catalog/media_manifest.json",
@@ -48,23 +58,13 @@
     },
     {
       "path": "catalog/research_catalog.json",
-      "bytes": 21456,
-      "sha256": "591502357e297d65ee225eaafc568141fd5f54b70b377a03420dbe8eb4c2dd91"
+      "bytes": 22594,
+      "sha256": "ef952814fa2db4549310f6afade5bb8c3e2a89b8bf097dc5656faa9823e7d391"
     },
     {
       "path": "catalog/视频索引.csv",
       "bytes": 17524,
       "sha256": "1464db6e8f8f09787eb342361e0c102482a1ae916ace7dca15dc7e8b5b1b2921"
-    },
-    {
-      "path": "MATERIALS_README.md",
-      "bytes": 1318,
-      "sha256": "f2a6c95d6d17d88276242314e41c7c2d91ebceeaaafba31e7f4e56d16b23a5e7"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2469,
-      "sha256": "3b8e0ff584223a380070e98615dccc8c0412a918e411c1582594becd70e30d25"
     },
     {
       "path": "reports/coverage.md",
@@ -317,6 +317,11 @@
       "sha256": "1949144eaa1ea8e88a406467c6105959ec6538f98e3044a742fc51e78a0451a2"
     },
     {
+      "path": "reports/per_video/7709896636563180387.md",
+      "bytes": 5049,
+      "sha256": "5044604a1a563f335f1f79ab43fc4927564ea821ea0648117fc07057dd0b7ac7"
+    },
+    {
       "path": "reports/root_verification.md",
       "bytes": 4588,
       "sha256": "47371ea146643a75f57897259e1ce248e24a38bb48c1822561d9984626e4f97c"
@@ -335,6 +340,11 @@
       "path": "reports/updates/2026-11-08.md",
       "bytes": 4053,
       "sha256": "1a41767c3bd20cbe845cbd62f528d1113ca64a9038e2e2e511228b03575ddcc2"
+    },
+    {
+      "path": "reports/updates/2026-11-21.md",
+      "bytes": 3619,
+      "sha256": "28ddf927e4b90d1244d457270a5042c98a77e76374b1825a52112cc49fa74031"
     },
     {
       "path": "reports/研究报告.md",
@@ -1397,14 +1407,29 @@
       "sha256": "835a533e1e9fce6c201dad95f701cfc5cc99ab0c2278625bddc997abd0c32c3d"
     },
     {
+      "path": "transcripts/7709896636563180387/画面字幕_原始OCR.srt",
+      "bytes": 951,
+      "sha256": "c5c3ddadececc520b8c9a1adf3c628b3a7db7ef14a46a2d0ab74a1b01948a831"
+    },
+    {
+      "path": "transcripts/7709896636563180387/画面字幕_阅读版.json",
+      "bytes": 1516,
+      "sha256": "e7db350b840688345ab8bd974e1058da852060f2d3af9ab95190c9926f78dcb7"
+    },
+    {
+      "path": "transcripts/7709896636563180387/画面字幕_阅读版.txt",
+      "bytes": 935,
+      "sha256": "f4c921c33cc37ccb61309cd2d78d75fefe02d4422e0881d9bb99186a9b358add"
+    },
+    {
       "path": "开始阅读.md",
       "bytes": 2912,
       "sha256": "bd039863810bf3f2056d16d6f4f328c8133cd63e94f6de46cd0b320ade19ca2b"
     },
     {
       "path": "最新增量.md",
-      "bytes": 746,
-      "sha256": "3614c39c6b6ee446233be218c6315638411d2e84ca66d896fa346ba12b4ba30b"
+      "bytes": 678,
+      "sha256": "23390daba1a9ac18678f2ae88dfabf78fda2d0d5edfda480da3b7bfcedd58491"
     },
     {
       "path": "研究查看器.html",

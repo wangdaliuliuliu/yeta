@@ -1,0 +1,25 @@
+{
+  "video_id": "7709896636563180387",
+  "method": "烧录字幕本地OCR；原裁切漏掉上方两行，使用扩大裁切的0.5秒补充采样；保留原始OCR不变，依据12.5秒原帧剔除背景指示牌识别噪声",
+  "status": "machine_ocr_not_word_verified_visual_text_only",
+  "is_audio_transcript": false,
+  "sampling_interval_seconds": 0.5,
+  "timestamp_tolerance_seconds": 0.5,
+  "duration_seconds": 20.0667,
+  "source_frame_count": 572,
+  "visual_sampling_seconds": 10,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.067,
+      "text": "这次10天的甲流；烧了5天躺了10天；人在身体好的时候想这想那；人在身体差的时候只想健康；已经到了会为身体健康感到幸福的年龄了；身体是革命的本钱；没有身体啥都白搭",
+      "note": "主要烧录字幕在抽样帧中持续显示；记录画面文字，不将其等同逐句口播。"
+    }
+  ],
+  "limitations": [
+    "原始OCR已保留，主裁切0.52–0.94漏掉上方“这次10天的甲流/烧了5天躺了10天”，扩展裁切0.24–0.94补足。",
+    "11.3–13.3秒医院背景指示牌文字污染OCR，已用12.5秒原帧核对并在阅读版排除；原始稿不改。",
+    "本地Whisper large-v3-turbo与small均仅输出疑似片尾字幕署名，未能形成可靠口播稿；没有将其当作字幕，也没有使用平台自动转写替代。",
+    "未听音核对；若口播与屏幕字不同，当前阅读版无法判定。"
+  ]
+}
